@@ -1,7 +1,7 @@
 # Predict AirBnb Rental Prices
 ML pipeline to predict the optimal pricing for AirBnb rentals
 
-*Based heavily on the work of Raki Rahman: [https://www.linkedin.com/in/mdrakiburrahman](https://www.linkedin.com/in/mdrakiburrahman)
+*Based heavily on the work of Raki Rahman: [https://www.linkedin.com/in/mdrakiburrahman](https://www.linkedin.com/in/mdrakiburrahman)*
 
 # Primary components
 We're going to demo the three **core** components that make up mlflow: <br>
